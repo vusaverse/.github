@@ -1,3 +1,11 @@
+---
+name: Issue Report
+about: Create a report to help us improve
+title: '[BUG/FEATURE/QUESTION] Brief description'
+labels: ''
+assignees: ''
+
+---
 
 ## Issue Type
 <!-- Please check the one that applies to this issue using "x". -->
