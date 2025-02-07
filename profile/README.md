@@ -30,6 +30,20 @@ We are a passionate data team focused on educational analytics. We work closely 
   - [snippets](https://github.com/vusaverse/snippets); rstudio snippets
   - [vusaverse.github.io](https://github.com/vusaverse/vusaverse.github.io); website built in Quarto
 
+
+# Our Pipeline
+
+We've developed a standardized R pipeline to ensure consistency and efficiency in our data processing and analysis workflows: 
+
+![VUsaverse R Pipeline](/profile/_assets/r_pipeline.svg)
+
+This pipeline represents our systematic approach to data analytics, from raw data ingestion to the final output of actionable insights.
+
+
+
+
+
+
 ## Contribution Guidelines
 We welcome contributions from the community! If you're interested in collaborating with us, please consider the following:
 
